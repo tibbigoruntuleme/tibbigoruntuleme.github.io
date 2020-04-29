@@ -1,6 +1,6 @@
-<a href="https://twitter.com/ImagingYeditepe?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Takip et @ImagingYeditepe</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<a href="https://twitter.com/ImagingYeditepe?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @ImagingYeditepe</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-<a class="twitter-timeline" href="https://twitter.com/ImagingYeditepe?ref_src=twsrc%5Etfw">Haberler</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<a class="twitter-timeline" href="https://twitter.com/ImagingYeditepe?ref_src=twsrc%5Etfw">Tweets by @ImagingYeditepe</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ## Projeler
 
