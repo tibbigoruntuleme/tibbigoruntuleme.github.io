@@ -1,6 +1,5 @@
 <a href="https://twitter.com/ImagingYeditepe?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @ImagingYeditepe</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-## News
 <a class="twitter-timeline" href="https://twitter.com/ImagingYeditepe?ref_src=twsrc%5Etfw">Tweets by ImagingYeditepe</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ## Projeler
