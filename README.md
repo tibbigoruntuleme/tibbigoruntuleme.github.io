@@ -1,4 +1,7 @@
-## Welcome to GitHub Page s
+<a href="https://twitter.com/ImagingYeditepe?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @ImagingYeditepe</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+
+## Projeler
 
 You can use the [editor on GitHub](https://github.com/tibbigoruntuleme/tibbigoruntuleme.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
