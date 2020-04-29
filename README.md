@@ -3,6 +3,7 @@
 <a class="twitter-timeline" href="https://twitter.com/ImagingYeditepe?ref_src=twsrc%5Etfw">Tweets by @ImagingYeditepe</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 # Araştırma
+![Image](/images/catractography-fig9.jpg)
 Difüzyon MR fiber traktografi için GPU üzerinde çalışan Cellular Automata Tractography yöntemi:
 - [Makale](https://rdcu.be/bxAZN)
 - [Kaynak Kodu](http://https://github.com/andachamamci/CATractography)
