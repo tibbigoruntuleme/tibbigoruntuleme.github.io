@@ -6,7 +6,7 @@
 
 # Eğitim
 
-## Yapay Zeka
+## Tıpta Yapay Zeka
 
 ## Manyetik Rezonans Görüntüleme
 
