@@ -1,6 +1,6 @@
-<a href="https://twitter.com/ImagingYeditepe?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @ImagingYeditepe</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<a href="https://twitter.com/ImagingYeditepe?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Takip et @ImagingYeditepe</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-<a class="twitter-timeline" href="https://twitter.com/ImagingYeditepe?ref_src=twsrc%5Etfw">Tweets by ImagingYeditepe</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<a class="twitter-timeline" href="https://twitter.com/ImagingYeditepe?ref_src=twsrc%5Etfw">Haberler</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ## Projeler
 
@@ -37,4 +37,4 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/tibbigoruntuleme/tibbigoruntuleme.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
-[contact yeditepemedicalimaging@gmail.com](mailto:yeditepemedicalimaging@gmail.com)
+[iletişim yeditepemedicalimaging@gmail.com](mailto:yeditepemedicalimaging@gmail.com)
