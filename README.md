@@ -4,6 +4,7 @@
 
 # Araştırma
 ![Image](/images/catractography-fig9.jpg)
+
 Difüzyon MR fiber traktografi için GPU üzerinde çalışan Cellular Automata Tractography yöntemi:
 - [Makale](https://rdcu.be/bxAZN)
 - [Kaynak Kodu](http://https://github.com/andachamamci/CATractography)
