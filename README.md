@@ -2,9 +2,15 @@
 
 <a class="twitter-timeline" href="https://twitter.com/ImagingYeditepe?ref_src=twsrc%5Etfw">Tweets by @ImagingYeditepe</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-## Projeler
+# Projeler
 
-## Eğitim
+# Eğitim
+
+## Yapay Zeka
+
+## Manyetik Rezonans Görüntüleme
+
+## Nörogörüntüleme
 
 You can use the [editor on GitHub](https://github.com/tibbigoruntuleme/tibbigoruntuleme.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
