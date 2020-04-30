@@ -6,7 +6,7 @@
 ---
 ### Cellular Automata Tractography
 
-| Testing | ![Image](/images/catractography-fig9.jpg)|
+| Testing | [Image](/images/catractography-fig9.jpg)|
 
 \  
 
