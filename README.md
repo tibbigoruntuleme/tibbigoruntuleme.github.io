@@ -6,7 +6,7 @@
 
 ### Cellular Automata Tractography
 
-| Difüzyon MR fiber traktografi için GPU üzerinde çalışan Cellular Automata Tractography yöntemi | ![Image](/images/catractography-fig9.jpg?classes=float-left) | 
+| Difüzyon MR fiber traktografi için GPU üzerinde çalışan Cellular Automata Tractography yöntemi | ![Image](/images/catractography-fig9.jpg) | 
 
 - [Hamamci, Andac. "Cellular Automata Tractography: Fast Geodesic Diffusion MR Tractography and Connectivity Based Segmentation on the GPU." Neuroinformatics 18.1 (2020): 25-41.](https://rdcu.be/bxAZN)
 - [Kaynak Kodu](https://github.com/andachamamci/CATractography) 
